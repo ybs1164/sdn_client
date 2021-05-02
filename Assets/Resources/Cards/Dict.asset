@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb069fb78747ea4b9a85d597156956c, type: 3}
+  m_Name: Dict
+  m_EditorClassIdentifier: 
+  cardName: "\uC0AC\uC804"
+  id: 9
+  icon: {fileID: 21300000, guid: 3d9af7fea531ea04da3438df922fe318, type: 3}
+  cost: 8
+  info: "\uB370\uBBF8\uC9C0\uB97C \uBC1B\uC744 \uC2DC \uC77C\uC815 \uBC18\uACBD\uC758
+    \uC544\uAD70\uC5D0\uAC8C \uB370\uBBF8\uC9C0\uC758 \uC77C\uC815 \uBD80\uBD84\uC744
+    \uCE58\uC720\uD574\uC90D\uB2C8\uB2E4."
+  units:
+  - {fileID: 11400000, guid: 553d9aaea775faa468ef8de4227166fc, type: 2}

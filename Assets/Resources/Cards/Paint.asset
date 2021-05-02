@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb069fb78747ea4b9a85d597156956c, type: 3}
+  m_Name: Paint
+  m_EditorClassIdentifier: 
+  cardName: "\uBB3C\uAC10"
+  id: 4
+  icon: {fileID: 21300000, guid: 456ca98a9ff00d04d809b9a81df848c0, type: 3}
+  cost: 3
+  info: "\uC77C\uC815 \uBC18\uACBD\uC758 \uC544\uAD70\uB4E4\uC758 \uCCB4\uB825\uC744
+    \uD68C\uBCF5\uD569\uB2C8\uB2E4."
+  units:
+  - {fileID: 11400000, guid: d26779cadb6aa594d8be4011c6e998c1, type: 2}
